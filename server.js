@@ -26,7 +26,7 @@ const MODEL_MAPPING = {
   'minimaxai/minimax-m2.7': 'minimaxai/minimax-m2.7',
   'minimaxai/minimax-m3': 'minimaxai/minimax-m3',
   'deepseek-ai/deepseek-v4-flash': 'deepseek-ai/deepseek-v4-flash',
-  'claude-3-opus': 'openai/gpt-oss-120b',
+  'z-ai/glm-5.2': 'z-ai/glm-5.2',
   'claude-3-sonnet': 'openai/gpt-oss-20b',
   'gemini-pro': 'qwen/qwen3-next-80b-a3b-thinking' 
 };
