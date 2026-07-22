@@ -27,8 +27,8 @@ const MODEL_MAPPING = {
   'minimaxai/minimax-m3': 'minimaxai/minimax-m3',
   'deepseek-ai/deepseek-v4-flash': 'deepseek-ai/deepseek-v4-flash',
   'z-ai/glm-5.2': 'z-ai/glm-5.2',
-  'claude-3-sonnet': 'openai/gpt-oss-20b',
-  'gemini-pro': 'qwen/qwen3-next-80b-a3b-thinking' 
+  'thinkingmachines/inkling': 'thinkingmachines/inkling',
+  'poolside/laguna-xs-2.1': 'poolside/laguna-xs-2.1' 
 };
 
 // Health check endpoint
