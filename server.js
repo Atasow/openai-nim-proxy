@@ -26,7 +26,8 @@ const MODEL_MAPPING = {
   'nvidia/nemotron-3-super-120b-a12b': 'nvidia/nemotron-3-super-120b-a12b',
   'nvidia/nemotron-3-ultra-550b-a55b': 'nvidia/nemotron-3-ultra-550b-a55b',
   'deepseek-ai/deepseek-v4-flash': 'deepseek-ai/deepseek-v4-flash',
-  'z-ai/glm-5.2': 'z-ai/glm-5.2',
+  'mistralai/mistral-small-4-119b-2603': 'mistralai/mistral-small-4-119b-2603',
+  'mistralai/mistral-medium-3.5-128b': 'mistralai/mistral-medium-3.5-128b',
   'thinkingmachines/inkling': 'thinkingmachines/inkling',
   'poolside/laguna-xs-2.1': 'poolside/laguna-xs-2.1' 
 };
