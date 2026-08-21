@@ -29,7 +29,7 @@ const MODEL_MAPPING = {
   'mistralai/mistral-small-4-119b-2603': 'mistralai/mistral-small-4-119b-2603',
   'mistralai/mistral-medium-3.5-128b': 'mistralai/mistral-medium-3.5-128b',
   'thinkingmachines/inkling': 'thinkingmachines/inkling',
-  'poolside/laguna-xs-2.1': 'poolside/laguna-xs-2.1' 
+  'deepseek-ai/deepseek-v4-flash-0731': 'deepseek-ai/deepseek-v4-flash-0731' 
 };
 
 // Health check endpoint
