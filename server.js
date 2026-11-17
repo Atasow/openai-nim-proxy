@@ -23,13 +23,13 @@ const ENABLE_THINKING_MODE = false; // Set to true to enable chat_template_kwarg
 // Model mapping (adjust based on available NIM models)
 const MODEL_MAPPING = {
   'z-ai/glm-5.3-flash': 'z-ai/glm-5.3-flash',
-  'nvidia/nemotron-3-super-120b-a12b': 'nvidia/nemotron-3-super-120b-a12b',
+  'nvidia/nemotron-3.5-super-vl-120b-a12b': 'nvidia/nemotron-3.5-super-vl-120b-a12b',
   'nvidia/nemotron-3-ultra-550b-a55b': 'nvidia/nemotron-3-ultra-550b-a55b',
   'minimaxai/minimax-m3.1-flash': 'minimaxai/minimax-m3.1-flash',
   'mistralai/mistral-small-4-119b-2603': 'mistralai/mistral-small-4-119b-2603',
   'mistralai/mistral-medium-3.5-128b': 'mistralai/mistral-medium-3.5-128b',
   'thinkingmachines/inkling': 'thinkingmachines/inkling',
-  'deepseek-ai/deepseek-v4-flash': 'deepseek-ai/deepseek-v4-flash' 
+  'nvidia/nemotron-3.5-lightning-30b-a3b': 'nvidia/nemotron-3.5-lightning-30b-a3b' 
 };
 
 // Health check endpoint
