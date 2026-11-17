@@ -26,8 +26,8 @@ const MODEL_MAPPING = {
   'nvidia/nemotron-3.5-super-vl-120b-a12b': 'nvidia/nemotron-3.5-super-vl-120b-a12b',
   'nvidia/nemotron-3-ultra-550b-a55b': 'nvidia/nemotron-3-ultra-550b-a55b',
   'mistralai/mistral-large-4-1t-a52b': 'mistralai/mistral-large-4-1t-a52b',
-  'mistralai/mistral-small-4-119b-2603': 'mistralai/mistral-small-4-119b-2603',
-  'mistralai/mistral-medium-3.5-128b': 'mistralai/mistral-medium-3.5-128b',
+  'stepfun-ai/step-5-preview': 'stepfun-ai/step-5-preview',
+  'minimaxai/minimax-m3.1-flash': 'minimaxai/minimax-m3.1-flash',
   'thinkingmachines/inkling': 'thinkingmachines/inkling',
   'nvidia/nemotron-3.5-lightning-30b-a3b': 'nvidia/nemotron-3.5-lightning-30b-a3b' 
 };
