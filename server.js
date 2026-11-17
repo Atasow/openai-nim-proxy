@@ -22,10 +22,10 @@ const ENABLE_THINKING_MODE = false; // Set to true to enable chat_template_kwarg
 
 // Model mapping (adjust based on available NIM models)
 const MODEL_MAPPING = {
-  'deepseek-ai/deepseek-v4.1-flash': 'deepseek-ai/deepseek-v4.1-flash',
+  'z-ai/glm-5.3-flash': 'z-ai/glm-5.3-flash',
   'nvidia/nemotron-3-super-120b-a12b': 'nvidia/nemotron-3-super-120b-a12b',
   'nvidia/nemotron-3-ultra-550b-a55b': 'nvidia/nemotron-3-ultra-550b-a55b',
-  'deepseek-ai/deepseek-v4-flash': 'deepseek-ai/deepseek-v4-flash',
+  'minimaxai/minimax-m3.1-flash': 'minimaxai/minimax-m3.1-flash',
   'mistralai/mistral-small-4-119b-2603': 'mistralai/mistral-small-4-119b-2603',
   'mistralai/mistral-medium-3.5-128b': 'mistralai/mistral-medium-3.5-128b',
   'thinkingmachines/inkling': 'thinkingmachines/inkling',
