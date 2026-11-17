@@ -25,7 +25,7 @@ const MODEL_MAPPING = {
   'z-ai/glm-5.3-flash': 'z-ai/glm-5.3-flash',
   'nvidia/nemotron-3.5-super-vl-120b-a12b': 'nvidia/nemotron-3.5-super-vl-120b-a12b',
   'nvidia/nemotron-3-ultra-550b-a55b': 'nvidia/nemotron-3-ultra-550b-a55b',
-  'minimaxai/minimax-m3.1-flash': 'minimaxai/minimax-m3.1-flash',
+  'mistralai/mistral-large-4-1t-a52b': 'mistralai/mistral-large-4-1t-a52b',
   'mistralai/mistral-small-4-119b-2603': 'mistralai/mistral-small-4-119b-2603',
   'mistralai/mistral-medium-3.5-128b': 'mistralai/mistral-medium-3.5-128b',
   'thinkingmachines/inkling': 'thinkingmachines/inkling',
